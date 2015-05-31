@@ -8,7 +8,7 @@
 #port=$2
 
 # We are trying to reach this url via the given HTTP Proxy Server
-url="http://www.google.lv"
+url="http://www.google.com"
 
 # Timeout time (in seconds)
 timeout=1
